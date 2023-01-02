@@ -1,0 +1,115 @@
+@import url("https://fonts.cdnfonts.com/css/minecraft-4");
+
+/*.menuGamebar {
+  position: absolute;
+  margin-top: 450px;
+  margin-left: 50vh;
+}
+*/
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.btn-play p {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  margin-top: -10px;
+  margin-bottom: -5px;
+}
+
+.btn-play {
+  text-shadow: 2px 4px #000;
+}
+
+.btn-play {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #0070ff;
+  border: none;
+  box-shadow: 0 9px #002656;
+  width: 200px;
+  font-family: "Minecraft", sans-serif;
+}
+
+.btn-play:hover {
+  background-color: #0157c4;
+}
+
+.btn-play:active {
+  background-color: #04418e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.btn-settings {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #0070ff;
+  border: none;
+  box-shadow: 0 9px #002656;
+  width: 50px;
+  height: 50px;
+  font-family: "Minecraft", sans-serif;
+}
+
+#settingsIcon {
+  position: absolute;
+  margin-top: -25px;
+  margin-left: -24px;
+  height: 50px;
+}
+
+.btn-settings:hover {
+  background-color: #0157c4;
+}
+
+.btn-settings:active {
+  background-color: #04418e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.btn-about {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #0070ff;
+  border: none;
+  box-shadow: 0 9px #002656;
+  width: 50px;
+  height: 50px;
+  font-family: "Minecraft", sans-serif;
+}
+
+#aboutIcon {
+  position: absolute;
+  margin-top: -25px;
+  margin-left: -24px;
+  height: 50px;
+}
+
+.btn-about:hover {
+  background-color: #0157c4;
+}
+
+.btn-about:active {
+  background-color: #04418e;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
